@@ -1,5 +1,4 @@
 source 'https://rubygems.org'
-ruby '2.1.3'
 
 gem 'sinatra',                '~> 1.4.5'
 gem 'random_point_generator', '0.0.2'
