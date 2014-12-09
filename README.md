@@ -2,6 +2,8 @@
 
 Provides an API for the [random_point_generator](https://github.com/kyletolle/random_point_generator) functionality.
 
+[Demo](http://random-point-generator.herokuapp.com/random_point)
+
 ## Development
 
 ### Install
@@ -61,5 +63,4 @@ rake
 ## License
 
 MIT
-
 
