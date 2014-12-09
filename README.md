@@ -1,6 +1,6 @@
 # random_point_generator-api
 
-Provides an API for the [RandomPointGenerator](https://github.com/kyletolle/random_point_generator) functionality.
+Provides an API for the [random_point_generator](https://github.com/kyletolle/random_point_generator) functionality.
 
 ## Development
 
