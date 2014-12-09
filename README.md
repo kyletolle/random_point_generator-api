@@ -50,6 +50,14 @@ http://localhost:3000/random_point?sw_point=1%2C1&ne_point=2%2C2
 [1.1879541982775819, 1.560359306976526]
 ```
 
+### Specs
+
+The default Rake task is to run the specs.
+
+```
+rake
+```
+
 ## License
 
 MIT
