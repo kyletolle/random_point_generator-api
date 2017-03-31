@@ -52,6 +52,12 @@ http://localhost:3000/random_point?sw_point=1%2C1&ne_point=2%2C2
 [1.1879541982775819, 1.560359306976526]
 ```
 
+#### NYC Area
+
+```
+http://random-point-generator.herokuapp.com/random_point?sw_point=40.636883%2C-74.083214&ne_point=40.831476%2C-73.673630
+```
+
 ### Specs
 
 The default Rake task is to run the specs.
